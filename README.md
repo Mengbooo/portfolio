@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Portfolio" src="../portfolio/public/website.png" width="90%">
+<img alt="Portfolio" src="./website.png" width="90%">
 </div>
 
 # Portfolio
